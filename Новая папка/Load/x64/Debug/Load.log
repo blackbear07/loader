@@ -1,0 +1,11 @@
+﻿  DllFinder.cpp
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(18,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(19,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(31,6): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(32,6): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(33,6): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Oimware-PC\Desktop\SteamSpoofer-master\Load\DllFinder.cpp(48,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Main.cpp
+  ProcHelper.cpp
+  SpoofSteamDll.cpp
+  Generating Code...
